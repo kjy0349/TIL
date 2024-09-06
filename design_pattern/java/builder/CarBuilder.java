@@ -1,4 +1,4 @@
-package house;
+package builder;
 
 public class CarBuilder implements Builder{
     private Car car;

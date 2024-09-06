@@ -1,4 +1,4 @@
-package house;
+package builder;
 
 public class CarManualBuilder implements Builder{
     Manual manual;

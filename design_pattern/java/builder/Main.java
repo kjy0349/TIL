@@ -1,4 +1,4 @@
-package house;
+package builder;
 
 public class Main {
     static void makeSportsCar() {

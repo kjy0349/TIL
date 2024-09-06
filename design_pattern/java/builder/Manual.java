@@ -1,4 +1,4 @@
-package house;
+package builder;
 
 public class Manual {
     private String seatDescription;

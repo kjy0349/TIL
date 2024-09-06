@@ -1,4 +1,4 @@
-package house;
+package builder;
 
 public interface Builder {
     void reset();
